@@ -1,0 +1,23 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/music">
+
+        <Preference
+            android:key="rescan_preference"
+            android:title="@string/title_rescan_music"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/appearance">
+
+        <ListPreference
+            android:key="colours_quality"
+            android:title="@string/title_colours_quality"
+            android:summary="@string/description_colours_quality"
+            android:entries="@array/colour_qualities_titles_array"
+            android:entryValues="@array/colour_qualities_values_array"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,41 @@
+<resources>
+    <dimen name="album_art_width">72dp</dimen>
+    <dimen name="album_art_height">72dp</dimen>
+
+    <dimen name="album_art_width_large">92dp</dimen>
+    <dimen name="album_art_height_large">92dp</dimen>
+
+    <dimen name="now_playing_panel_height">88dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+    <dimen name="music_controller_height">300dp</dimen>
+	
+    <dimen name="normal_height">66dip</dimen>
+    <dimen name="expanded_height">132dip</dimen>
+    <dimen name="list_item_padding">8dp</dimen>
+
+    <dimen name="list_item_translation_z">2dp</dimen>
+
+    <dimen name="shuffle_btn_size">40dp</dimen>
+    <dimen name="playlist_btn_size">40dp</dimen>
+    <dimen name="previous_next_btn_size">52dp</dimen>
+    <dimen name="play_btn_size">80dp</dimen>
+    <dimen name="plus_btn_size">40dp</dimen>
+
+    <dimen name="notification_control_size">40dp</dimen>
+    <dimen name="notification_control_size_expanded">64dp</dimen>
+    <dimen name="notification_album_art_size">64dp</dimen>
+    <dimen name="add_to_playlist_icon_size">36dp</dimen>
+
+    <!-- expandable list dimensions -->
+    <dimen name="expandable_parent_margin" >8dp</dimen>
+    <dimen name="expandable_child_margin_horizontal" >12dp</dimen>
+    <dimen name="expandable_child_margin_vertical" >2dp</dimen>
+
+    <dimen name="textSizeMedium">18sp</dimen>
+    <dimen name="textSizeSmall">14sp</dimen>
+</resources>

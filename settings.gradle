@@ -1,0 +1,3 @@
+include ':app', ':advancedrecyclerview', ':android-support-v4-preferencefragment'
+project(':advancedrecyclerview').projectDir = new File('app/libs/advancedrecyclerview/library')
+project(':android-support-v4-preferencefragment').projectDir = new File('app/libs/android-support-v4-preferencefragment-master')

@@ -1,0 +1,48 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">>
+    <string name="app_name">RecordPlayer</string>
+
+    <string name="title_all_music">All Music</string>
+    <string name="title_albums">Albums</string>
+    <string name="title_artists">Artists</string>
+    <string name="title_playlists">Playlists</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+	<string name="error">Error!</string>
+    <string name="error_corrupted_data">Error! The file is corrupted.</string>
+    <string name="error_unsupported_file_format">Error! Unsupported file format.</string>
+    <string name="error_no_music">No music found on device</string>
+    <string name="error_playlist_already_exists">That playlist already exists</string>
+    <string name="ok">Ok</string>
+    <string name="exit_app">Exit app</string>
+    <string name="service_disconected_error">Error! MusicService was disconnected.</string>
+    <string name="playing">Playing...</string>
+
+    <string name="no_music_on_device">No music was found on the device!</string>
+    <string name="loading_music">Scanning your device for music. This may take a while ...</string>
+
+    <string translatable="false" name="durationformatshort"><xliff:g id="format">%2$d:%5$02d</xliff:g></string>
+    <string translatable="false" name="durationformatlong"><xliff:g id="format">%1$d:%3$02d:%5$02d</xliff:g></string>
+
+    <string name="sequential_msg">Loop songs</string>
+    <string name="shuffle_msg">Shuffle</string>
+    <string name="repeat_current_msg">Loop current song</string>
+
+    <string name="music">Music</string>
+    <string name="title_rescan_music">Rescan for music</string>
+    <string name="appearance">Appearance</string>
+    <string name="title_colours_quality">Theme colours</string>
+    <string name="description_colours_quality">Do you want the app colours to look dark or bright?</string>
+
+    <string name="menu_title_add_to_playlist">Add to playlist</string>
+
+    <string name="no_song_to_play">No song playing</string>
+    <string name="player">Player</string>
+
+    <string name="new_playlist_hint">Make a new playlist</string>
+    <string name="added_to_playlist">Added to playlist %s</string>
+
+    <item type="id" name="VIEW_CONFIG_ALPHA"/>
+</resources>

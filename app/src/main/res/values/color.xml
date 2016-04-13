@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_quiet_color">@color/primary_grey</color>
+    <color name="app_loud_primary_color">@color/white</color>
+    <color name="app_loud_secondary_color">#FFE91E63</color>
+    <color name="app_positive_color">@color/accent_green</color>
+    <color name="app_negative_color">@color/accent_red</color>
+
+    <color name="play_colour">@color/app_loud_primary_color</color>
+    <color name="pause_colour">@color/app_loud_secondary_color</color>
+
+    <color name="light_theme_list_divider">#d9d9d9</color>
+    <color name="light_theme_conversation_contact">#222222</color>
+    <color name="light_theme_conversation_last_message">#8c8e91</color>
+    <!--  <color name="light_theme_primary">#de000000</color>
+    <color name="light_theme_secondary">#8a000000</color>-->
+    <color name="light_theme_sys_message_date">#bbbcbe</color>
+    <color name="light_theme_off_white">#ebedf2</color>
+    <color name="light_theme_avatar_background">#f1f1f1</color>
+    <drawable name="light_theme_convo_activated">#E5E7EA</drawable>
+    <drawable name="light_theme_convo_pressed">#F0F2F5</drawable>
+    <color name="light_theme_alternate_background">#FBFBFB</color>
+
+    <color name="dark_theme_list_divider">#757575</color>
+    <!-- <color name="dark_theme_primary">#ffffffff</color>
+    <color name="dark_theme_secondary">#b3ffffff</color> -->
+    <color name="dark_theme_sys_message_date">#8c8e91</color>
+    <color name="dark_theme_conversation_last_message">#8c8e91</color>
+    <color name="dark_theme_off_grey">#393e49</color>
+    <color name="dark_theme_avatar_background">#515151</color>
+    <drawable name="dark_theme_convo_activated">#494C55</drawable>
+    <drawable name="dark_theme_convo_pressed">#404249</drawable>
+    <color name="dark_theme_alternate_background">#33363F</color>
+    <color name="crop_button_bar">#f3f3f3</color>
+    <color name="crop_button_text">#666666</color>
+    <color name="crop_selector_pressed">#1a000000</color>
+    <color name="crop_selector_focused">#77000000</color>
+    <color name="vpi__background_holo_dark">#ff000000</color>
+    <color name="vpi__background_holo_light">#fff3f3f3</color>
+    <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+    <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+    <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
+    <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
+    <color name="appwidget_text">#ffffffff</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="bg_item_normal_state">@color/primary_grey</color>
+    <color name="bg_item_dragging_state">@color/light_grey</color>
+    <color name="bg_item_dragging_active_state">@color/light_grey</color>
+    <color name="bg_item_swiping_state">@color/bg_item_normal_state</color>
+    <color name="bg_item_swiping_active_state">#ff9999ff</color>
+
+    <color name="bg_group_item_normal_state">@color/primary_grey</color>
+    <color name="bg_group_item_normal_pressed_state">@color/light_grey</color>
+    <color name="bg_group_item_expanded_state">@color/light_grey</color>
+    <color name="bg_group_item_expanded_pressed_state">@color/primary_grey</color>
+    <color name="bg_group_item_dragging_state">@color/light_grey</color>
+    <color name="bg_group_item_dragging_active_state">@color/light_grey</color>
+    <color name="bg_group_item_swiping_state">#ffddccff</color>
+    <color name="bg_group_item_swiping_active_state">#ffbb99ff</color>
+
+    <color name="bg_swipe_item_neutral">@color/primary_grey</color>
+    <color name="bg_swipe_item_left">#fff9930d</color>
+    <color name="bg_swipe_item_right">#ff2f8b2a</color>
+    <color name="bg_swipe_group_item_left">#fff45f30</color>
+    <color name="bg_swipe_group_item_right">#ff295db3</color>
+
+    <color name="music_contoller_background">#CC42485a</color>
+
+    <color name="snackbar_action_color_done">#ffccccff</color>
+
+    <color name="color_transparent">#00000000</color>
+    <color name="color_black_25">#40000000</color>
+    <color name="color_black_50">#80000000</color>
+
+    <color name="background_tab_pressed">@color/white</color>
+    <color name="tab_indicator_color">@color/purple_header</color>
+
+    <color name="text_color_bright">@color/white</color>
+    <color name="text_color_dark">@color/black</color>
+
+
+    <color name="primary_grey">#586073</color>
+    <color name="white">#ffffffff</color>
+    <color name="semi_black">#75000000</color>
+    <color name="dark_theme_background">#ff2b2e38</color>
+
+    <color name="accent_green">#1ADE98</color>
+    <color name="accent_red">#E73D49</color>
+    <color name="black">#000000</color>
+    <color name="purple_header">#a94dba</color>
+    <color name="light_grey">#96ffffff</color>
+</resources>

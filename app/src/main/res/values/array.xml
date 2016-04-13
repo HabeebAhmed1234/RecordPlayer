@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colour_qualities_titles_array">
+        <item>"Bright"</item>
+        <item>"Dark"</item>
+    </string-array>
+    <string-array name="colour_qualities_values_array">
+        <item>"bright"</item>
+        <item>"dark"</item>
+    </string-array>
+</resources>
